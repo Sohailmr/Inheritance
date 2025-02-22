@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.ArrayList;
 
-public class Main {
+public class InheritanceDemo {
     public static void main(String[] args) {
 
         ArrayList<Worker> workers = new ArrayList<>();
